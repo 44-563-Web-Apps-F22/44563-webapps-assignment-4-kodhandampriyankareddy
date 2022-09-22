@@ -1,0 +1,43 @@
+body{
+     background-color:rgb(184, 169, 35);
+}
+p:hover {
+    background-color:rgb(17, 70, 155);
+}
+h1{
+    color :rgba(51, 78, 65, 0.998);
+}
+h4{
+   color:rgb(14, 2, 17);}
+h3{
+    color:rgb(189, 117, 8);}
+h3{
+    font-size:20px;}
+p{
+   color:rgb(124, 39, 89);}
+.Daly{
+    font-size: medium;
+   }
+   div{
+    color:blueviolet;
+   }
+span{
+    color:rgb(102, 106, 109);}
+    span:hover{
+        color:aqua;
+    }
+    
+
+   .chorus{
+    color:darkgoldenrod;
+   }
+h3{
+     font-style: italic;}
+h4{
+    font-style: oblique;}
+    h2{
+        text-shadow: 2px 3px 5px blue;
+    }
+    h2:hover{
+        color:aquamarine;
+    }
